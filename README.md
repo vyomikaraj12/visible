@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @SujanHebbarHS7
-- 👀 I’m interested in KSI
-- 🌱 I’m currently learning how to beat azhdaha
-- 💞️ I’m looking to collaborate on assignments
-- 📫 How to reach me - WhatsApp 
+
